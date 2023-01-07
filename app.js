@@ -18,8 +18,8 @@ $(document).ready(function(){
 
   var typed = new Typed(".typing-1",{
       strings: [
-          "YouTuber", "Developer", "Blogger",
-          "Designer", "Freelancer"
+          "BTS SIO (option SLAM)", "BTS SIO(option SLAM)", "BTS SIO(option SLAM)",
+          "BTS SIO(option SLAM)", "BTS SIO(option SLAM)"
       ],
       typeSpeed: 100,
       backSpeed: 60,
